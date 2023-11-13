@@ -1,0 +1,23 @@
+{
+    "version": "1.0.1",
+    "configurations": [
+        {
+            "name": "flutter_application(staging)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "staging"
+            ],
+        },
+        {
+            "name": "flutter_application(prod)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "prod"
+            ],
+        },
+    ]
+}

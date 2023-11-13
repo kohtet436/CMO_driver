@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_debug.dart
+ASSET_PREFIX=debug
+BUNDLE_NAME=Debug CMO Driver
+BUNDLE_DISPLAY_NAME=Debug CMO Driver

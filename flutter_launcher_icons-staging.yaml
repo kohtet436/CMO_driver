@@ -1,0 +1,6 @@
+flutter_launcher_icons:
+  android: launcher_icon
+  image_path: assets/staging_logo/cmo_driver_staging_logo.png
+  adaptive_icon_foreground: assets/staging_logo/cmo_driver_staging_logo_foreground.png
+  adaptive_icon_background: assets/staging_logo/cmo_driver_staging_logo_background.png
+  ios: true

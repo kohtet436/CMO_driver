@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "774159219048",
+    "project_id": "ferry-management-system-90934",
+    "storage_bucket": "ferry-management-system-90934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774159219048:android:ed3c48af70bd26bb903edd",
+        "android_client_info": {
+          "package_name": "mm.com.cmoit.cmo_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774159219048-7bnqbmgrs0am7m2esc7r95j6jsh7rg81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXUl7IQbKL8M-nJomQ7k0i23dNisy63Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774159219048-7bnqbmgrs0am7m2esc7r95j6jsh7rg81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774159219048-rtiffkcjcakrgv1vue9lribjtprrmgqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mm.com.cmhl.cmoDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

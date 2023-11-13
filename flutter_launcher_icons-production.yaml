@@ -1,0 +1,6 @@
+flutter_launcher_icons:
+  android: launcher_icon
+  image_path: assets/logo/cmo_driver_logo.png
+  adaptive_icon_foreground: assets/logo/cmo_driver_logo_foreground.png
+  adaptive_icon_background: assets/logo/cmo_driver_logo_background.png
+  ios: true
